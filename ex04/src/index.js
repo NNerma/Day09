@@ -1,3 +1,4 @@
+// Only change code below thise line
 var m, n;
 
 function compareDifferentValues(m,n){
@@ -10,19 +11,20 @@ function compareDifferentValues(m,n){
     return "Not equal";
 }
 
-compareDifferentValues(8, "8");
+
 console.log(compareDifferentValues(8, "8"));
 
-compareDifferentValues("8", 8);
+
 console.log(compareDifferentValues("8", 8));
 
-compareDifferentValues('8', 8);
+
 console.log(compareDifferentValues('8', 8));
 
-compareDifferentValues("8", "8");
+
 console.log(compareDifferentValues("8", "8"));
 
-compareDifferentValues(8, 8);
+
 console.log(compareDifferentValues(8, 8));
+// Only change code above thise line
 
 module.exports = compareDifferentValues;

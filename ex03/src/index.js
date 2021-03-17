@@ -1,3 +1,4 @@
+// Only change code below thise line
 var num;
 
 function myEqualFunction(num){
@@ -8,22 +9,20 @@ function myEqualFunction(num){
 return "Not equal";
 }
 
-myEqualFunction(5);
+
 console.log(myEqualFunction(5));
 
-myEqualFunction(23);
+
 console.log(myEqualFunction(23));
 
-myEqualFunction("23");
+
 console.log(myEqualFunction("23"));
 
-myEqualFunction('23');
+
 console.log(myEqualFunction('23'));
 
-myEqualFunction("text");
+
 console.log(myEqualFunction("text"));
+//Only change code above this lane
 
 module.exports = myEqualFunction;
-
-
-

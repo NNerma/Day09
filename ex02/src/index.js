@@ -1,5 +1,5 @@
 
-
+// Only change code below thise line
 var myParametar;
 
 function myFunction(myParametar){
@@ -21,5 +21,6 @@ console.log(myFunction(true));
 
 myFunction(false);
 console.log(myFunction(false));
+// Only change code above thise line
     
 module.exports = myFunction;
