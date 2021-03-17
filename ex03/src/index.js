@@ -1,4 +1,4 @@
-// Only change code below thise line
+// Only change code below this line
 var num;
 
 function myEqualFunction(num){

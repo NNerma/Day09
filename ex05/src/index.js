@@ -1,4 +1,4 @@
-// Only change code below thise line
+// Only change code below this line
 var m;
 
 function compareStrictValues(m){
@@ -24,6 +24,6 @@ console.log(compareStrictValues(12));
 
 console.log(compareStrictValues("Doe"));
 
-// Only change code above thise line
+// Only change code above this line
 
 module.exports = compareStrictValues;
