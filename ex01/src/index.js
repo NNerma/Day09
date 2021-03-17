@@ -1,8 +1,8 @@
-// Only change code below thise line
+// Only change code below this line
 function myTrueBoolean(){
    return Boolean(true);
 
 }
 console.log(myTrueBoolean());
-// Only change code above thise line
+// Only change code above this line
 module.exports = myTrueBoolean;
